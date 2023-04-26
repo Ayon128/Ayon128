@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon128&label=Profile%20views&color=0e75b6&style=flat" alt="ayon128" /> </p>
 
-- 🌱 I’m currently learning **ML,NLP, Data Structure & Algorithms**
+- 🌱 I’m currently learning **ML, NLP, Data Structure & Algorithms**
 
 - 👯 I’m looking to collaborate on **ML and NLP Projects**
 
