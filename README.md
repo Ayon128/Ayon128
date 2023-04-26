@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md.Ayon Rahman</h1>
 <h3 align="center">A computer science student with a keen interest in machine learning and natural language processing.</h3>
-<img align = "right" alt = "coding" width = "400" src ="https://i.gifer.com/4zeM.gif">
+<img align = "right" alt = "coding" width = "400" src ="![image](https://user-images.githubusercontent.com/104573871/234532049-7ba88007-05c9-475b-982d-a604e113540a.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayon128&label=Profile%20views&color=0e75b6&style=flat" alt="ayon128" /> </p>
 
